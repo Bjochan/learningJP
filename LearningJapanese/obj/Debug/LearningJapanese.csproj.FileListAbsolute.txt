@@ -1,0 +1,11 @@
+c:\users\anh-4294\documents\visual studio 2015\Projects\LearningJapanese\LearningJapanese\bin\Debug\LearningJapanese.exe.config
+C:\Users\anh-4294\documents\visual studio 2015\Projects\LearningJapanese\LearningJapanese\obj\Debug\LearningJapanese.csprojResolveAssemblyReference.cache
+C:\Users\anh-4294\documents\visual studio 2015\Projects\LearningJapanese\LearningJapanese\obj\Debug\LearningJapanese.LoginForm.resources
+C:\Users\anh-4294\documents\visual studio 2015\Projects\LearningJapanese\LearningJapanese\obj\Debug\LearningJapanese.MainForm.resources
+C:\Users\anh-4294\documents\visual studio 2015\Projects\LearningJapanese\LearningJapanese\obj\Debug\LearningJapanese.Properties.Resources.resources
+C:\Users\anh-4294\documents\visual studio 2015\Projects\LearningJapanese\LearningJapanese\obj\Debug\LearningJapanese.RegistForm.resources
+C:\Users\anh-4294\documents\visual studio 2015\Projects\LearningJapanese\LearningJapanese\obj\Debug\LearningJapanese.csproj.GenerateResource.Cache
+C:\Users\anh-4294\documents\visual studio 2015\Projects\LearningJapanese\LearningJapanese\bin\Debug\LearningJapanese.exe
+C:\Users\anh-4294\documents\visual studio 2015\Projects\LearningJapanese\LearningJapanese\bin\Debug\LearningJapanese.pdb
+C:\Users\anh-4294\documents\visual studio 2015\Projects\LearningJapanese\LearningJapanese\obj\Debug\LearningJapanese.exe
+C:\Users\anh-4294\documents\visual studio 2015\Projects\LearningJapanese\LearningJapanese\obj\Debug\LearningJapanese.pdb

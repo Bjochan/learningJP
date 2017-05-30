@@ -1,0 +1,24 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="LearningJapanese.Properties" GeneratedClassName="Login_Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="strVersion" Type="System.String" Scope="User">
+      <Value Profile="(Default)">1.0.0</Value>
+    </Setting>
+    <Setting Name="strID" Type="System.String" Scope="User">
+      <Value Profile="(Default)">ブイティマイアイン</Value>
+    </Setting>
+    <Setting Name="strCompany" Type="System.String" Scope="User">
+      <Value Profile="(Default)">ワールドビジネスセンター株式会社</Value>
+    </Setting>
+    <Setting Name="strServerIP" Type="System.String" Scope="User">
+      <Value Profile="(Default)">127.0.0.1</Value>
+    </Setting>
+    <Setting Name="Setting" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="Test" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+  </Settings>
+</SettingsFile>
